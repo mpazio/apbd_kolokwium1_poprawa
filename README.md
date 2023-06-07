@@ -1,1 +1,2 @@
-# apbd_kolokwium1_poprawa
+# Kolokwium1 poprawa
+Treść kolokwium znajduje się w plikach zespołu Teams.
